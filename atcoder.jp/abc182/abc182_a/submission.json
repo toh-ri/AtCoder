@@ -1,0 +1,12 @@
+{
+	"id": 30532325,
+	"epoch_second": 1648469917,
+	"problem_id": "abc182_a",
+	"contest_id": "abc182",
+	"user_id": "tohri",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 121,
+	"result": "AC",
+	"execution_time": 6
+}
